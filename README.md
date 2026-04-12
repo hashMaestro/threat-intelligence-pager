@@ -1,3 +1,6 @@
+*(Note: This tool is specifically designed to filter and translate Cyber Threat Intelligence for the German-speaking SME market (DACH). 
+Therefore, the documentation and outputs are in German.)*
+
 # Personal Threat Intelligence Pager
 
 Ein vollautomatisches, headless-ready Threat Intelligence Framework für Blue Teams und Security-Analysten. Das Tool aggregiert kontinuierlich Cybersecurity-Feeds, evaluiert das akute Risiko für spezifische Infrastrukturen dynamisch via LLM (Gemini) und pusht kritische Alerts als strukturierte Payloads auf mobile Endgeräte.
