@@ -1,0 +1,45 @@
+# Personal Threat Intelligence Pager — Cron in UTC (4× täglich).
+# Zeiten in DE weichen je nach MEZ/MESZ ab — ggf. anpassen.
+
+name: Threat Intel Pager
+
+on:
+  schedule:
+    - cron: "0 6,11,15,19 * * *"
+  workflow_dispatch:
+
+# Push für git-auto-commit (seen_urls.json)
+permissions:
+  contents: write
+
+jobs:
+  pager:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: Repository auschecken
+        uses: actions/checkout@v4
+
+      - name: Python einrichten
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      - name: Abhängigkeiten installieren
+        run: pip install -r requirements.txt
+
+      - name: Pager ausführen
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+          # Optional: Schwellwert 1–5 (Standard in config.py: 3)
+          # MIN_RISK_STARS: "3"
+        run: python main.py
+
+      - name: seen_urls.json committen und pushen
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update seen_urls.json [skip ci]"
+          file_pattern: seen_urls.json

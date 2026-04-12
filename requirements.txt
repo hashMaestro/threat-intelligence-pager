@@ -1,0 +1,6 @@
+# Personal Threat Intelligence Pager — Abhängigkeiten
+feedparser>=6.0.11
+# Nachfolger von google-generativeai (deprecated), siehe https://github.com/googleapis/python-genai
+google-genai>=1.0.0
+requests>=2.31.0
+python-dotenv>=1.0.0
