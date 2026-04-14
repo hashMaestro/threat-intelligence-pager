@@ -1,7 +1,10 @@
 [
   "https://thehackernews.com/2026/04/adobe-patches-actively-exploited.html",
   "https://thehackernews.com/2026/04/cpuid-breach-distributes-stx-rat-via.html",
+  "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0119",
+  "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0870",
   "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0997",
   "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1087",
+  "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1088",
   "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1089"
 ]
