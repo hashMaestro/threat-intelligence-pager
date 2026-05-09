@@ -10,6 +10,8 @@
   "https://thehackernews.com/2026/05/cisa-adds-actively-exploited-linux-root.html",
   "https://thehackernews.com/2026/05/cybercrime-groups-using-vishing-and-sso.html",
   "https://thehackernews.com/2026/05/trellix-confirms-source-code-breach.html",
+  "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2022-0119",
+  "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2022-0877",
   "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-2040",
   "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-2067",
   "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-3238",
@@ -157,6 +159,12 @@
   "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1406",
   "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1408",
   "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1409",
+  "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1416",
+  "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1419",
+  "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1425",
+  "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1426",
+  "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1433",
+  "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1435",
   "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1437",
   "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1438"
 ]
