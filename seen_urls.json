@@ -149,6 +149,7 @@
   "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0849",
   "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0850",
   "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0860",
+  "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0861",
   "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0870",
   "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0880",
   "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0887",
@@ -348,5 +349,6 @@
   "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1702",
   "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1703",
   "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1704",
+  "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1712",
   "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1717"
 ]
