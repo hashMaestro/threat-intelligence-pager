@@ -76,6 +76,7 @@
   "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1653",
   "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1688",
   "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1696",
+  "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1813",
   "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1858",
   "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1869",
   "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1898",
@@ -112,6 +113,7 @@
   "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0126",
   "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0129",
   "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0145",
+  "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0148",
   "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0164",
   "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0179",
   "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0195",
@@ -121,6 +123,7 @@
   "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0234",
   "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0244",
   "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0280",
+  "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0284",
   "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0302",
   "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0309",
   "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0324",
@@ -408,5 +411,9 @@
   "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1802",
   "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1803",
   "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1804",
-  "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1805"
+  "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1805",
+  "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1811",
+  "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1812",
+  "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1814",
+  "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1815"
 ]
